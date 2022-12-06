@@ -1,0 +1,11 @@
+router
+
+# node  comment     yPos     xPos
+C1	NA	5	5
+P1	NA	5	7
+
+link
+
+# srcNode   dstNode     bandwidth   metric  delay   queue
+C1	P1	10Mbps	1	10ms	20
+
